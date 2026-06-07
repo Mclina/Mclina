@@ -58,14 +58,6 @@ I am passionate about building scalable infrastructure, automating workflows, an
 
 ---
 
-## 📌 Featured Projects
-
-* Dockerized Node.js Applications
-* Terraform AWS Infrastructure
-* Kubernetes Deployment Configurations
-* GitHub Actions CI/CD Pipelines
-* Monitoring & Logging Stack
-* Linux Automation Scripts
 
 ---
 
@@ -79,11 +71,6 @@ I am passionate about building scalable infrastructure, automating workflows, an
 
 ---
 
-## 📫 Connect With Me
-
-* LinkedIn: Add Your LinkedIn URL
-* Hello.cv: Add Your Hello.cv URL
-* GitHub: Add Your GitHub URL
 
 ---
 
